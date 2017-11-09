@@ -1,3 +1,5 @@
+Material from the course "Python For Large Applications" as given by Aaron Maxwell (details below):
+
 Welcome to "Python For Large Applications". I'm your instructor, Aaron Maxwell.
 Reach me at aaron@powerfulpython.com.
 
